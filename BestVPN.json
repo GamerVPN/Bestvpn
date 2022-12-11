@@ -35,7 +35,7 @@
 
 
 {
-         "name": "SingaporeT-007",
+         "name": "Singapore-007",
          "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-007.ovpn"
       },
 
@@ -78,11 +78,37 @@
 {
          "name": "Singapore-015",
          "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Singapore-015.ovpn"
+      },
+
+{
+         "name": "Thailand-001",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+{
+         "name": "Thailand-002",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+
+{
+         "name": "Thailand-003",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+{
+         "name": "Thailand-004",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
+      },
+
+{
+         "name": "Thailand-005",
+         "url": "https://raw.githubusercontent.com/Juessh/Bestvpn-Config/main/Thailand-001.ovpn"
       }       
 
 
   ],
 "message":"🟢BestVPN New🟢\n\n📢VIP ၀ယ်လိုပါက 1လ50ပါ📢\n\n•🚀Fixed All Servers🚀\n•Version:8\n\n•Owner By: JueHtet ",
    "title":"💙11 December 2022💙" ,
-   "version": 1
+   "version": 2
 }
