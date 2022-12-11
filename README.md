@@ -1,2 +1,0 @@
-# Bestvpn
-Bestvpn
